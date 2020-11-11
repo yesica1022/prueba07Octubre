@@ -5,3 +5,10 @@ C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIM
 C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\3trimestre1\3trimestre1\obj\Debug\3trimestre1.csproj.CoreCompileInputs.cache
 C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\3trimestre1\3trimestre1\obj\Debug\3trimestre1.exe
 C:\Users\yessi\OneDrive\TRABAJOS SOFI ( )\PROGRAMACION ORIENTADA A OBJETOS\3TRIMESTRE.1\3trimestre1\3trimestre1\obj\Debug\3trimestre1.pdb
+C:\Users\yessi\OneDrive\Documentos\3TRIMESTRE.1\3trimestre1\3trimestre1\obj\Debug\3trimestre1.csprojAssemblyReference.cache
+C:\Users\yessi\OneDrive\Documentos\3TRIMESTRE.1\3trimestre1\3trimestre1\obj\Debug\3trimestre1.csproj.CoreCompileInputs.cache
+C:\Users\yessi\OneDrive\Documentos\3TRIMESTRE.1\3trimestre1\3trimestre1\obj\Debug\3trimestre1.exe
+C:\Users\yessi\OneDrive\Documentos\3TRIMESTRE.1\3trimestre1\3trimestre1\obj\Debug\3trimestre1.pdb
+C:\Users\yessi\OneDrive\Documentos\3TRIMESTRE.1\3trimestre1\3trimestre1\bin\Debug\3trimestre1.exe.config
+C:\Users\yessi\OneDrive\Documentos\3TRIMESTRE.1\3trimestre1\3trimestre1\bin\Debug\3trimestre1.exe
+C:\Users\yessi\OneDrive\Documentos\3TRIMESTRE.1\3trimestre1\3trimestre1\bin\Debug\3trimestre1.pdb

@@ -16,8 +16,6 @@ namespace _3trimestre1
             //  1...Leer un número por teclado y definir si es par o impar
 
 
-            // Creamos una variable donde almacenaremos el numero a comprovar
-
             /*int num = 0;
             Console.WriteLine("Escribe un numero");
             num = int.Parse(Console.ReadLine());
@@ -227,16 +225,83 @@ namespace _3trimestre1
             Console.ReadKey();*/
 
 
-           //Partiendo de los vectores anteriores buscar el menor y el mayor y presentar sus respectivos nombres con su edad.
+            //Partiendo de los vectores anteriores buscar el menor y el mayor y presentar sus respectivos nombres con su edad.
 
 
- 
+            /*int[] edad = { 12, 50, 23, 10, 18, 35, 41, 85, 16, 45 };
+            string[] nombre = { "juan", "maria", "tereza", "pedro", "javier", "ana", "diana", "jorge", "dayana", "lady" };
+            Console.WriteLine("\n      Los vectores son: \n");
+            Console.WriteLine("      Nombre  /  Edad");
+            Console.WriteLine("");
 
+            for (int z = 0; z <= 9; z++)
+            {
+                Console.WriteLine("      " + nombre[z] + "  =  " + edad[z]);
+            }
+            int H = edad.Length;
+            for (int j = 1; j < H; j++)
+            {
+                for (int e = 0; e < H - j; e++)
+                {
+                    if (edad[e] > edad[e + 1])
+                    {
+                        int temp = edad[e];
+                        string temp2 = nombre[e];
+                        edad[e] = edad[e + 1];
+                        nombre[e] = nombre[e + 1];
+                        edad[e + 1] = temp;
+                        nombre[e + 1] = temp2;
+                    }
+                }
+            }
+            Console.WriteLine("\n      Menor a mayor: \n");
+            Console.WriteLine("      Nombre  /  Edad");
+            Console.WriteLine("");
+
+
+            for (int z = 0; z <= 9; z++)
+            {
+                Console.WriteLine("      " + nombre[z] + "  =  " + edad[z]);
+            }
+           
+            Console.ReadLine();
+
+
+            Console.ReadKey();*/
+
+
+            /*Console.Write("\n ingrese el palabra:  ");
+            String palindromo = (Console.ReadLine());
+            char[] poliArray = palindromo.ToCharArray();
+            String contrario = "";
+            for (int e = poliArray.Length - 1; e >= 0; e--)
+            {
+                contrario += poliArray[e];
+            }
+            if (palindromo == contrario)
+            {
+                Console.WriteLine("\n    La palabra " + palindromo + ", Es palindromo");
+                Console.WriteLine("\n     --------------------//--------------------\n");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("\n    La palabra " + palindromo + ", no es palindromo");
+                Console.WriteLine("\n    Su inverso es: " + contrario);
+                Console.ReadLine();
+            }
+           
+                   
+    
+            Console.Clear();*/
+           
 
 
         }
     }
 }
+    
+
 
 
 
